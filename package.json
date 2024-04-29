@@ -1,6 +1,10 @@
 {
-  "name": "functional-domain-design",
-  "version": "0.0.1",
+  "name": "fp-ddd",
+  "version": "0.0.2",
+  "repository": {
+    "url": "https://github.com/All-Khwarizmi/fp-ddd",
+    "type": "github"
+  },
   "description": "A starter project for functional domain driven projects",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",

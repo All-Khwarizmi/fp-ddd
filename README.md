@@ -1,4 +1,4 @@
-# Functional Domain Design
+# FP-DDD
 
 The `fp-ddd` is a TypeScript library designed to offer a solid foundation for working with **Domain-Driven Design (DDD)** concepts such as entities, value objects, and aggregates. This package leverages the power of functional programming to ensure immutability and robust domain validation through the use of fp-ts and lodash.
 
