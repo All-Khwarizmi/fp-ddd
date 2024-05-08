@@ -13,7 +13,7 @@ export class Failure<T> {
   readonly invalidValue: T;
   readonly message: string;
   readonly code?: string;
-  private constructor(props: FailureProps<T>) {
+  public constructor(props: FailureProps<T>) {
     this.invalidValue = props.invalidValue;
     this.message = props.message;
     this.code = props.code;
